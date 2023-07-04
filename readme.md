@@ -4,8 +4,12 @@
 
 ### 현재 폴더 기준으로 해당 레포지토리 **폴더**를 내려받고 싶은 경우
 
-> git clone https://github.com/inhanbyeol94/mini-iphone15
+```bash
+git clone https://github.com/inhanbyeol94/mini-iphone15
+```
 
 ### 현재 폴더에 레포지토리를 내려받고 싶은 경우
 
-> git clone https://github.com/inhanbyeol94/mini-iphone15 .
+```bash
+git clone https://github.com/inhanbyeol94/mini-iphone15 .
+```
